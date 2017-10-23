@@ -6,3 +6,8 @@
 *.idea
 uiDesigner.xml
 .vscode/launch.json
+/target/
+/test-output/
+/.idea/
+.settings/
+extent.html
